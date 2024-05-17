@@ -76,7 +76,7 @@ function App(): React.JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Le Trong Tin">
+          <Section title="Khoi Nguyet Ly Hoang">
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
             screen and then come back to see your edits.
           </Section>
@@ -86,7 +86,7 @@ function App(): React.JSX.Element {
           <Section title="Bug loi l">
             <DebugInstructions />
           </Section>
-          <Section title="OK rồi ">
+          <Section title="OK rồi 123 ">
             Read the docs to discover what to do next:
           </Section>
           <LearnMoreLinks />
